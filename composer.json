@@ -24,12 +24,10 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zend-modulemanager": "3.*",
         "zendframework/zend-stdlib": "3.*",
         "zendframework/zend-servicemanager": "3.*",
         "zendframework/zend-loader": "3.*",
         "zendframework/zend-eventmanager": "3.*",
-        "zendframework/zend-mvc": "3.*",
         "kriswallsmith/assetic": "~1.2.1"
     },
     "require-dev": {
